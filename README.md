@@ -11,6 +11,7 @@
 This is a simple base to start building your own KMBOX tools.
 
 ## Todo
+- [ ] Write README file.
 - [ ] Add KMBOX B/B+ Pro support. (Only NET support for now)
 
 ## Credits
