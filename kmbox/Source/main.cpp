@@ -2,7 +2,7 @@
 
 int main()
 {
-	SetConsoleTitleA("Debug Console");
+    SetConsoleTitleA("Debug Console");
 
     std::string IP = "192.168.1.188";
     WORD Port = 0;
@@ -17,5 +17,5 @@ int main()
     LOG("KMBOX initialized");
 
     system("pause");
-	return 1;
+    return 1;
 }
